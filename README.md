@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...HTML CSS JS Python
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...traffic bots
-- 📫 How to reach me ...damianfallon.blogspot.com
+- 📫 How to reach me ...damianfallon2.blogspot.com
 
 <!---
 Damohead/Damohead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
