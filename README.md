@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Damohead
+- 👋 Hi, I’m Damian Fallon
 - 👀 I’m interested in ...HTML CSS JS Python
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...traffic bots
